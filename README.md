@@ -1,3 +1,5 @@
 # LGMVIP-WebDev
-Created a Single Page Website using HTML,CSS,JAVASCRIPT.
-https://pushpitraj.github.io/LGMVIP-WebDev/
+
+Task 1 : Created a Single page website using HTML,CSS and Javascript.
+
+Task 2 : Created a web application using create-react-app
